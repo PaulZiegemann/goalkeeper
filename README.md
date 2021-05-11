@@ -15,7 +15,7 @@ Functions I want to implement/improve:
 - Images and icons.
 - Statistics for all time best PR.
 - Statistics for nutrition.
-- user friendlier interface.
-- improve Database structure.
+- User friendlier interface.
+- Improve Database structure.
 
 ![goalkeeper](https://user-images.githubusercontent.com/56874632/117792824-f0f7e000-b24b-11eb-9ede-a8a890e6e239.png)
